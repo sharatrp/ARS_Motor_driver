@@ -1,0 +1,2 @@
+ros_pololu_servo
+-DCATKIN_DEVEL_PREFIX=/home/sharat/MotorDriver_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sharat/MotorDriver_ws/install -G Unix Makefiles
